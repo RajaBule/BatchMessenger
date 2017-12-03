@@ -1,0 +1,7 @@
+User data base :: Save login imformation to a text file that can be manipulated
+Register menue::
+Login Menue::
+Select a Chat group::
+Chat Window ::
+TransParency controller ::
+Custom Chat Window (DESIGN)::
